@@ -1,0 +1,7 @@
+C:\Users\User-PC\Desktop\ClockPatience\bin\Debug\ClockPatience.exe.config
+C:\Users\User-PC\Desktop\ClockPatience\bin\Debug\ClockPatience.exe
+C:\Users\User-PC\Desktop\ClockPatience\bin\Debug\ClockPatience.pdb
+C:\Users\User-PC\Desktop\ClockPatience\obj\Debug\ClockPatience.csprojAssemblyReference.cache
+C:\Users\User-PC\Desktop\ClockPatience\obj\Debug\ClockPatience.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Desktop\ClockPatience\obj\Debug\ClockPatience.exe
+C:\Users\User-PC\Desktop\ClockPatience\obj\Debug\ClockPatience.pdb
